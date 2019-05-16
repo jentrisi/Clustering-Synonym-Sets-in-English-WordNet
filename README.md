@@ -14,7 +14,7 @@ Synonym_Set_WordNet.txt
 This file contain synonym set from WordNet compare to Test_Set_Thesaurus.txt
 
 Test_Set_Thesaurus.txt
-This file contain synonym from Thesaurus based on this 50 random word in thesaurus :
+This file contain synonym from Thesaurus based on this 50 random words in thesaurus :
 Administrator
 Adolescence
 Aphrodisiac
