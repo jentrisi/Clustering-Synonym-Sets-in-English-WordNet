@@ -15,16 +15,16 @@ This file contain synonym set from WordNet compare to Test_Set_Thesaurus.txt
 
 ## Test_Set_Thesaurus.txt
 This file contain synonym from Thesaurus based on this 50 random words in thesaurus :
-Administrator
-Adolescence
-Aphrodisiac
-Apologia
-Arbour
-Ash
-Autocrat
-Bangle
-Biscuit
-Bishopric
+1. Administrator
+2. Adolescence
+3. Aphrodisiac
+4. Apologia
+5. Arbour
+6. Ash
+7. Autocrat
+8. Bangle
+9. Biscuit
+10. Bishopric
 Boat
 Bride
 Carving
