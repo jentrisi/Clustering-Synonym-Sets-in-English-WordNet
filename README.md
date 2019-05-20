@@ -1,6 +1,9 @@
 ## Accuracy.ipynb
 This python file is contain program to calculate Recall, Precision and F1 Score based on Synonym_Set_Result.txt and Synonym_Set_WordNet.txt
 
+## Calculation Result
+This excel file contain comparison between Synonym_Set_Result.txt with Synonym_Set_WordNet.txt
+
 ## Clustering.ipynb
 This python file is contain method to Cluster data from Test_Set_Thesaurus.txt to Synonym_Set_Result.txt
 
